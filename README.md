@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jagdishrawat0712
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning ML techniques 
+- 🌱 I’m currently learning DL techniques 
 - 💞️ I’m looking to collaborate on Data Science related projects
 - 📫 You can reach me through my email: jagdishrawat0712@gmail.com
 
